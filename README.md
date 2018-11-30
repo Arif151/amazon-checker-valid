@@ -1,0 +1,1 @@
+# amazon-checker-valid
